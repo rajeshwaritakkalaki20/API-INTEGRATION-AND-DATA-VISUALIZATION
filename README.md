@@ -179,3 +179,5 @@ Supervised learning, data preprocessing, model evaluation, text classification.
 ![Image](https://github.com/user-attachments/assets/77253993-cf2b-416a-b5fd-bef47db0d3b5)
 
 ![Image](https://github.com/user-attachments/assets/43609e1a-8577-460a-8ec3-6d25730cfd15)
+
+[New Text Document.txt](https://github.com/user-attachments/files/20614549/New.Text.Document.txt)
