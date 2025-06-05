@@ -156,25 +156,43 @@ Skills Gained:
 
 Supervised learning, data preprocessing, model evaluation, text classification.
 
-# TASK NO 1 OUTPUT
+#TASK NO 1 OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/136a3afd-0039-4223-aec4-746f5ddd84a4)
 
+Box plot representing multi-variate categorical variables
+
 ![Image](https://github.com/user-attachments/assets/b3524d73-1921-455a-a59a-5205734f8d51)
+
+Output Multiple Box PLot
 
 ![Image](https://github.com/user-attachments/assets/4b0c9325-239e-4cf3-9b52-7ee25ba02f2f)
 
+Output 2D Scattered Plot
+
 ![Image](https://github.com/user-attachments/assets/3e742cb0-0a03-4204-9421-3ad4ac031fda)
+
+Output 3D Scattered Plot
 
 ![Image](https://github.com/user-attachments/assets/efda47e9-a266-4373-b773-218a1e3e8739)
 
+Output Histogram
+
 ![Image](https://github.com/user-attachments/assets/30df17b0-6a26-48c6-99af-05ed53ff482a)
+
+Output Countplot
 
 ![Image](https://github.com/user-attachments/assets/d7f26865-7779-4489-a290-050d1cdd0304)
 
+Output Correlation Plot
+
 ![Image](https://github.com/user-attachments/assets/47d7a084-19e3-4ae2-94ca-bd7b04dbd83e)
 
+Output Pie Chart
+
 ![Image](https://github.com/user-attachments/assets/c7cfa3b9-43d5-44aa-8919-fa122d6dda91)
+
+Output
 
 #TASK NO 2 OUTPUT:
 
