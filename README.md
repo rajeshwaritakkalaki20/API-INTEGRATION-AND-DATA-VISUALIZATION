@@ -156,7 +156,7 @@ Skills Gained:
 
 Supervised learning, data preprocessing, model evaluation, text classification.
 
-#OUTPUT
+# TASK NO 1 OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/136a3afd-0039-4223-aec4-746f5ddd84a4)
 
@@ -176,9 +176,15 @@ Supervised learning, data preprocessing, model evaluation, text classification.
 
 ![Image](https://github.com/user-attachments/assets/c7cfa3b9-43d5-44aa-8919-fa122d6dda91)
 
+#TASK NO 2 OUTPUT:
+
 ![Image](https://github.com/user-attachments/assets/77253993-cf2b-416a-b5fd-bef47db0d3b5)
 
+#TASK NO 3 OUTPUT:
+
 ![Image](https://github.com/user-attachments/assets/43609e1a-8577-460a-8ec3-6d25730cfd15)
+
+#TASK NO 4 OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/cbaa7d17-fb63-4ade-a9b3-07386032a700)
 
