@@ -158,8 +158,6 @@ Supervised learning, data preprocessing, model evaluation, text classification.
 
 #OUTPUT
 
-![Image](https://github.com/user-attachments/assets/3cb71f97-c4e0-43be-8eca-f1143841241f)
-
 ![Image](https://github.com/user-attachments/assets/136a3afd-0039-4223-aec4-746f5ddd84a4)
 
 ![Image](https://github.com/user-attachments/assets/b3524d73-1921-455a-a59a-5205734f8d51)
@@ -172,8 +170,6 @@ Supervised learning, data preprocessing, model evaluation, text classification.
 
 ![Image](https://github.com/user-attachments/assets/30df17b0-6a26-48c6-99af-05ed53ff482a)
 
-![Image](https://github.com/user-attachments/assets/a0c80a5a-8cc3-45af-90f7-e55199aaab45)
-
 ![Image](https://github.com/user-attachments/assets/d7f26865-7779-4489-a290-050d1cdd0304)
 
 ![Image](https://github.com/user-attachments/assets/47d7a084-19e3-4ae2-94ca-bd7b04dbd83e)
@@ -182,9 +178,4 @@ Supervised learning, data preprocessing, model evaluation, text classification.
 
 ![Image](https://github.com/user-attachments/assets/77253993-cf2b-416a-b5fd-bef47db0d3b5)
 
-![Image](https://github.com/user-attachments/assets/3134d19d-a732-402e-8d41-124271df7d41)
-
 ![Image](https://github.com/user-attachments/assets/43609e1a-8577-460a-8ec3-6d25730cfd15)
-
-[New Text Document.txt](https://github.com/user-attachments/files/20614549/New.Text.Document.txt)
-
