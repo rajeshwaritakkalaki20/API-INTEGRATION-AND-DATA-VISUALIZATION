@@ -38,85 +38,85 @@ Journalists can utilize the dashboard for fact-based reporting by sourcing the l
 
 1. Python:
    
-Core programming language used for data retrieval, processing, and visualization.
+   Core programming language used for data retrieval, processing, and visualization.
 
 2. APIs:
    
-COVID19API / disease.sh API: For real-time COVID-19 statistics.
+   COVID19API / disease.sh API: For real-time COVID-19 statistics.
 
-GeoJSON Data: For mapping geographic data in interactive charts.
+   GeoJSON Data: For mapping geographic data in interactive charts.
 
 3. Data Processing Libraries:
    
-Pandas: For data manipulation, cleaning, and analysis.
+   Pandas: For data manipulation, cleaning, and analysis.
 
-NumPy: For numerical computations and handling large datasets efficiently.
+   NumPy: For numerical computations and handling large datasets efficiently.
 
 4. Visualization Tools:
    
-Matplotlib & Seaborn: For basic line plots, histograms, and heatmaps.
+   Matplotlib & Seaborn: For basic line plots, histograms, and heatmaps.
 
-Plotly: For interactive visualizations including maps and multi-variable charts.
+   Plotly: For interactive visualizations including maps and multi-variable charts.
 
-Folium or GeoPandas: For rendering geospatial data on maps.
+   Folium or GeoPandas: For rendering geospatial data on maps.
 
 5. Flask / Streamlit (Optional):
    
-For creating a web-based interactive dashboard.
+   For creating a web-based interactive dashboard.
 
 7. Jupyter Notebook:
    
-Used during development for quick prototyping and visualization testing.
+   Used during development for quick prototyping and visualization testing.
 
 #Scope of the Project:
 
-The scope of this project is broad and flexible, making it ideal for educational purposes, portfolio projects, or practical deployment. Key components of the project include:
+   The scope of this project is broad and flexible, making it ideal for educational purposes, portfolio projects, or practical deployment. Key components of the project include:
 
 1. Real-Time Data Integration:
    
-Continuous fetching of updated COVID-19 data via REST APIs.
+   Continuous fetching of updated COVID-19 data via REST APIs.
 
-Handling API rate limits and failures with retry mechanisms.
+   Handling API rate limits and failures with retry mechanisms.
 
 2. Data Cleaning & Preprocessing:
    
-Handling missing values and standardizing country names.
+   Handling missing values and standardizing country names.
 
-Aggregating data for regional and global summaries.
+   Aggregating data for regional and global summaries.
 
 3. Multi-level Visualization:
    
-Time-series analysis: Plotting confirmed cases, deaths, and recoveries over time.
+   Time-series analysis: Plotting confirmed cases, deaths, and recoveries over time.
 
-Heatmaps: Showing intensity of outbreaks by country or region.
+   Heatmaps: Showing intensity of outbreaks by country or region.
 
-Interactive World Map: Showing data with hover tooltips and color scales.
+   Interactive World Map: Showing data with hover tooltips and color scales.
 
-Vaccination Statistics: Comparing vaccination rates across different countries.
+   Vaccination Statistics: Comparing vaccination rates across different countries.
 
 4. User Interaction:
    
-Allowing users to select a specific country or continent.
+   Allowing users to select a specific country or continent.
 
-Enabling custom date range selection for time-series plots.
+   Enabling custom date range selection for time-series plots.
 
-Filtering based on case types (confirmed, active, recovered, deaths).
+   Filtering based on case types (confirmed, active, recovered, deaths).
 
 #Future Enhancements:
 
-Predictive Analytics: Integrate machine learning models to forecast future cases.
+   Predictive Analytics: Integrate machine learning models to forecast future cases.
 
-Mobile Compatibility: Deploy using responsive web frameworks.
+   Mobile Compatibility: Deploy using responsive web frameworks.
 
-Alert System: Email or SMS alerts for threshold breaches (e.g., high daily case spikes).
+   Alert System: Email or SMS alerts for threshold breaches (e.g., high daily case spikes).
 
-Historical Comparisons: Compare COVID-19 impact across different time periods.
+   Historical Comparisons: Compare COVID-19 impact across different time periods.
 
 
 
 #Conclusion:
 
-This project showcases the practical use of API integration and data visualization in Python, addressing a globally relevant issue. It combines real-time data acquisition with powerful visual storytelling, making complex data accessible and actionable. The techniques used in this project are transferrable to many other fields, such as financial analytics, weather monitoring, or supply chain management, making it a strong foundational project for data science, software engineering, or public health professionals.
+   This project showcases the practical use of API integration and data visualization in Python, addressing a globally relevant issue. It combines real-time data acquisition with powerful visual storytelling,       making complex data accessible and actionable. The techniques used in this project are transferrable to many other fields, such as financial analytics, weather monitoring, or supply chain management, making      it a strong foundational project for data science, software engineering, or public health professionals.
 
 
 
