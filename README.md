@@ -40,7 +40,7 @@ Journalists can utilize the dashboard for fact-based reporting by sourcing the l
    
 Core programming language used for data retrieval, processing, and visualization.
 
-3. APIs:
+2. APIs:
    
 COVID19API / disease.sh API: For real-time COVID-19 statistics.
 
@@ -117,6 +117,8 @@ Historical Comparisons: Compare COVID-19 impact across different time periods.
 #Conclusion:
 
 This project showcases the practical use of API integration and data visualization in Python, addressing a globally relevant issue. It combines real-time data acquisition with powerful visual storytelling, making complex data accessible and actionable. The techniques used in this project are transferrable to many other fields, such as financial analytics, weather monitoring, or supply chain management, making it a strong foundational project for data science, software engineering, or public health professionals.
+
+
 
 
 
